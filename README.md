@@ -4,5 +4,5 @@ Editorials for all questions of Silicon Maze can be found here sorted by their f
 
 - [Algorithms](Algorithms/README.md)
 - [Systems](Systems/README.md)
-- [Machine Learning](Machine-Learning/README.md)
+- [Machine Learning](ML/README.md)
 - [Development](Development/README.md)
